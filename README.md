@@ -1,4 +1,3 @@
-````md
 # Ghostty Config
 
 🎨 Custom configuration and themes for [Ghostty](https://ghostty.io), a fast and modern GPU-accelerated terminal emulator.
@@ -15,8 +14,6 @@
    ```sh
    git clone https://github.com/mbuergi/ghostty-config.git ~/.config/ghostty
    ```
-````
-
 2. Restart Ghostty to apply changes.
 
 ## File Structure
