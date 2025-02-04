@@ -1,0 +1,20 @@
+theme = tokyonight-storm
+background-opacity = 0.75
+# background-blur-radius = 15
+
+cursor-style = block
+cursor-color = #34BE6B
+cursor-style-blink = true
+shell-integration-features = no-cursor
+
+font-size = 16
+
+clipboard-read = allow
+clipboard-write = allow
+
+window-decoration = true
+
+auto-update = download
+
+keybind = ctrl+c=copy_to_clipboard
+keybind = ctrl+v=paste_from_clipboard
