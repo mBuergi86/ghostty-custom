@@ -12,7 +12,7 @@
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/mbuergi/ghostty-config.git ~/.config/ghostty
+   git clone https://github.com/mBuergi86/ghostty-custom.git ~/.config/ghostty
    ```
 2. Restart Ghostty to apply changes.
 
