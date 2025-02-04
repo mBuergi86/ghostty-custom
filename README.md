@@ -1,6 +1,6 @@
 # Ghostty Config
 
-🎨 Custom configuration and themes for [Ghostty](https://ghostty.io), a fast and modern GPU-accelerated terminal emulator.
+🎨 Custom configuration and themes for [Ghostty](https://ghostty.org), a fast and modern GPU-accelerated terminal emulator.
 
 ## Features
 
